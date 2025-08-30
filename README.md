@@ -43,7 +43,7 @@ To run this game on your local machine, follow these steps.
 
 ### ✅ Prerequisites
 
-  - Python 3.7+
+  - Python 3.10+
   - Pip (Python's package installer)
 
 ### 1\. Clone the Repository
