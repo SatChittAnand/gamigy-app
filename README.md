@@ -2,7 +2,7 @@
 
 Welcome to **Temperature Control: Hypnotic Edition\!** This is a fast-paced, addictive arcade-style game built with Python and Pygame. Take control of a powerful Air Conditioning unit, navigate a hypnotic vortex, collect fans for points, and dodge the relentless onslaught of sentient heaters\! 🌀
 
-This project also features optional **Web3 integration** , allowing players to submit their high scores to an Ethereum-based blockchain.
+This project also features optional **Web3 integration** , allowing players to submit their high scores to an Ethereum based blockchain.
 
 -----
 
